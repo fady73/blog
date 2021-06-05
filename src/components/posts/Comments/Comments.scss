@@ -1,0 +1,19 @@
+.br-comment {
+  font-size: 1rem;
+  padding: 15px;
+  margin-top: 40px;
+
+  border-bottom: 1px solid rgba(0, 0, 0, 0.085);
+}
+
+.br-comment .br-comment__comment-user {
+  font-weight: bold;
+  display: block;
+}
+
+.br-comment .br-comment__comment-user span {
+  font-weight: normal;
+  font-size: 0.8rem;
+  margin-left: 5px;
+  padding-right: 10px;
+}
